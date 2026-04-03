@@ -16,6 +16,6 @@
 pkg update && pkg upgrade
 pkg install git
 
-git clone https://github.com/yourusername/nethunter-hacker-ui
+git clone 
 cd nethunter-hacker-ui
 bash install.sh
