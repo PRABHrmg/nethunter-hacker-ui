@@ -19,7 +19,6 @@ else
 done < ~/nethunter-hacker-ui/assets/dragon.txt
 fi
 sleep 2
-clear
 echo ""
 echo "[+] System Booting..."
 sleep 0.5
