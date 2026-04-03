@@ -9,7 +9,13 @@ printf "\n\n\n"
 printf "        kali㉿$USER\n\n"
 
 # Dragon logo
-cat ~/nethunter-hacker-ui/assets/dragon.txt
+cols=$(tput cols)
+
+if [ $cols -lt 60 ]; then
+    cat ~/nethunter-hacker-ui/assets/small_logo.txt
+else
+    cat ~/nethunter-hacker-ui/assets/dragon.txt
+fi
 sleep 1
 
 echo ""
