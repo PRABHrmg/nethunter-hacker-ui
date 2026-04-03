@@ -31,7 +31,8 @@ done
 echo ""
 echo "OS       : Kali NetHunter"
 echo "Kernel   : $(uname -r)"
-echo "User     : $USER"
+echo ""
+echo "kali㉿$USER"
 echo "CPU      : $(uname -m)"
 
 sleep 2
