@@ -130,7 +130,7 @@ No real hacking or tracking is performed.
 
 ## ❤️ Author
 
-Made by **PRABHrmng**
+Made by **PRABHrmg**
 
 ---
 
